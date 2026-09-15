@@ -13,7 +13,7 @@
 ## 2. Captura de Tela do Experimento
 
 ![Simulação SOSIM](imagem.png)
-*(Certifique-se de salvar a imagem da captura no seu repositório do GitHub com o nome `imagem.png` na mesma pasta do arquivo Markdown, ou ajuste o caminho conforme necessário).*
+*Print da tela após 3 minutos de observação*
 
 ---
 
