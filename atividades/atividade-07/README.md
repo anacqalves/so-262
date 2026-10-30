@@ -1,9 +1,5 @@
 Simulador do Algoritmo do Banqueiro (Dijkstra)
-
-Disciplina: Sistemas Operacionais
-Referência: Capítulo 6 – Sistemas Operacionais Modernos, Tanenbaum & Bos.
-Desenvolvedora: Ana Carolina Quintela Alves
-Linguagem: Python 3
+Ana Carolina Quintela Alves
 
 1. Sobre o projeto
 
