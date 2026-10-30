@@ -16,6 +16,7 @@ Determinar uma sequência segura de execução dos processos.
 Avaliar solicitações de novos recursos.
 Conceder ou negar solicitações conforme a disponibilidade e a segurança do sistema.
 Realizar rollback quando uma tentativa de alocação resulta em um estado inseguro.
+
 2. Conceitos utilizados
 
 O algoritmo utiliza quatro estruturas principais:
@@ -26,6 +27,7 @@ C (Current)	Matriz que representa os recursos atualmente alocados a cada process
 Max	Matriz que representa a quantidade máxima de recursos que cada processo poderá solicitar.
 Need	Matriz que representa a necessidade restante de cada processo.
 A (Available)	Vetor que representa os recursos disponíveis no momento.
+
 2.1. Cálculo da necessidade (Need)
 
 A necessidade restante de cada processo é calculada pela diferença entre a quantidade máxima declarada e a quantidade já alocada.
